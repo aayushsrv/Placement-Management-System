@@ -1,0 +1,14 @@
+# Backend ignores
+Placement/target/
+Placement/.settings/
+Placement/.project
+Placement/.classpath
+
+# Frontend ignores
+placement-frontend/node_modules/
+placement-frontend/build/
+placement-frontend/.env
+
+# OS ignores
+.DS_Store
+Thumbs.db
